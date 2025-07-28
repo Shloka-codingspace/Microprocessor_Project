@@ -20,3 +20,4 @@ The project implements:
 - DOSBox (if using TASM on Windows 10/11)
 - Windows / DOS environment
 
+<img width="1919" height="958" alt="Image" src="https://github.com/user-attachments/assets/2301f97d-e0fe-43e6-9da8-5c3800cd04fc" />
